@@ -91,6 +91,10 @@ def start_server():
         server_sock.close()
 
 a = 3
+<<<<<<< HEAD
+=======
+b = 2324
+>>>>>>> master
 
 if __name__ == "__main__":
     start_server()
